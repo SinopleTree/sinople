@@ -2,7 +2,7 @@ const canvas = document.getElementById("canvas");
 const lib = canvas.getContext("2d");
 //console.log(lib);
 canvas.width = window.innerWidth;
-canvas.height = 300;
+canvas.height = 400;
 
 const particleArray =[];
 let hue =0;
